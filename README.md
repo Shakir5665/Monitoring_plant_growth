@@ -40,8 +40,8 @@ Eliminates manual monitoring limitations with computer vision techniques.
 
 | Role | Name | ID |  
 |------|------|---|  
-| Team Lead | MNM.SAKIR | ICT/2022/059 |  
-| Member | AWI.AHMED | ICT/2022/122 |  
-| Member | MM.RAASHIDH | ICT/2022/135 |  
-| Member | NM.BAAHIR | ICT/2022/045 |  
+| Team Lead | MNM.SAKIR | Shakir5665 |  
+| Member | AWI.AHMED | imadhahmed |  
+| Member | MM.RAASHIDH | RaashidhMusaj |  
+| Member | NM.BAAHIR | Baahir-NM |  
 
