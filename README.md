@@ -1,40 +1,47 @@
-#Plant Growth Monitoring System
-#Project Overview
-This project aims to develop an image processing system for monitoring plant growth in controlled environments using Python, OpenCV, and Matplotlib. The system captures time-lapse images of plants and analyzes growth patterns, leaf count, and health indicators through automated image processing techniques.
+# 🌱 Plant Growth Monitoring System  
 
-#Team Pixel Pioneers
-Team Lead: MNM.SAKIR (ICT/2022/059)
+An automated image processing system that monitors and analyzes plant growth in controlled environments using Python and OpenCV.
 
-AWI.AHMED (ICT/2022/122)
 
-MM.RAASHIDH (ICT/2022/135)
+## 📌 Project Overview  
+This system provides automated plant monitoring through:  
+- Time-lapse image capture of plants  
+- Growth pattern analysis and leaf counting  
+- Plant health assessment  
+- Visual growth report generation  
 
-NM.BAAHIR (ICT/2022/045)
+Eliminates manual monitoring limitations with computer vision techniques.
 
-#Project Description
-The system addresses the challenge of manual and subjective plant monitoring by automating the process through:
+## ✨ Key Features  
 
-Time-lapse image acquisition in controlled environments
+### Image Processing  
+- Noise reduction & contrast adjustment  
+- Image enhancement for better analysis  
 
-Image pre-processing and segmentation
+### Plant Analysis  
+- Leaf segmentation (thresholding/edge detection)  
+- Growth pattern quantification  
+- Health indicator assessment  
 
-Growth pattern and health indicator analysis
+### Visualization  
+- Growth trend graphs  
+- Comparative analysis reports  
 
-#Features
+## 🛠️ Technologies  
+| Technology | Purpose |  
+|------------|---------|  
+| Python | Core programming |  
+| OpenCV | Image processing |  
+| Matplotlib | Data visualization |  
+| NumPy | Numerical operations |  
 
-Noise reduction and contrast enhancement
+## 👥 Team  
+**Pixel Pioneers**  
 
-Plant region segmentation using thresholding and edge detection
+| Role | Name | ID |  
+|------|------|---|  
+| Team Lead | MNM.SAKIR | ICT/2022/059 |  
+| Member | AWI.AHMED | ICT/2022/122 |  
+| Member | MM.RAASHIDH | ICT/2022/135 |  
+| Member | NM.BAAHIR | ICT/2022/045 |  
 
-Quantitative analysis of Health of leaves and growth patterns
-
-#Visualization of growth trends using Matplotlib
-
-Technologies Used
-Python 3.x
-
-OpenCV (for image processing)
-
-Matplotlib (for data visualization)
-
-NumPy (for numerical operations)
